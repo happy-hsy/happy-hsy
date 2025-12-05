@@ -1,10 +1,4 @@
 ### Hi there 👋
 
-- 🔭 My academic pursuit in Computer Vision and Deep Learning initially centered around video understanding,
-with a focus on action recognition and detection. Later, I explored the realm of Self-supervised Learning,
-studying how machines can learn autonomously from inherent data structures. Recently, my interest has gravitated
-towards the intersection of 3D/4D World Reconstruction and Understanding. My primary research
-now seeks to reconstruct/generate structured/semantic 3D/4D world for intelligent interactions, bridging 3D/4D
-construction with semantic comprehension. The ultimate aim is to harness these models to facilitate seamless
-communication between machines, humans, and their environments.
+- 🔭 My research interests focus on discovering the underlying potential of modern models that can empower an increasingly broad range of downstream tasks, spanning perception, reconstruction, generation. I believe that pretrained foundation models possess remarkable intelligence, yet they often lack the specialized capabilities required for real-world downstream applications. This motivates my work toward bridging this gap directly. Recently, I have been deeply inspired by the impressive progress of generative video models. These models appear to encode rich world knowledge, such as physical dynamics and multi-image interactions, capturing what I would describe as the abstract relationships that govern the world. I believe such models have the potential to evolve into \emph{world models} capable of simulating complex real-world behaviors and powering a wide variety of intelligent tasks. I am actively exploring this direction and welcome discussions or collaboration ideas.
 - 📫 How to reach me: haosen.yang.6@gmail.com
